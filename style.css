@@ -1,0 +1,81 @@
+#house
+{
+    width:20%;
+    height: 15%;
+    margin-left: 15%;
+    margin-bottom:-14.5% ;
+    border: 5px solid black;
+    background-color:rgb(97, 90, 97);
+    padding-bottom: 10px;
+    order: 1;
+}
+#street
+{
+    margin-top:13%;
+    width: auto;
+    height: 140px;
+    background-color: lightgreen;
+    border-bottom: 3px solid black;
+}
+
+#triangle 
+{
+    margin-left:14%;
+    width: 0;
+    height: 0;
+    border: 165px solid transparent;
+    border-top:0;
+    border-bottom: 200px solid rgb(189, 59, 59);
+}
+
+#window1
+{
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 30px;
+    border: 5px solid brown;
+    background-color: lightblue;
+}
+
+#window2
+{
+    width: 70px ;
+    height: 70px;
+    background-color: white;
+    margin-top: -80px;
+    margin-left: 190px;
+    border: 5px solid brown;
+    background-color: lightblue;
+}
+
+#door
+{
+    width: 70px;
+    height: 80px;
+    margin-left: 115px;
+    background-color: brown;
+    border-bottom: 5px solid rgb(77, 37, 30);
+}
+
+#container
+{
+    background-color: aqua;
+}
+
+#change
+{
+    width: 10%;
+    height: 10%;
+    background-color: azure;
+}
+
+#sun
+{
+    margin-left: 0px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    background-color: yellow;
+}
